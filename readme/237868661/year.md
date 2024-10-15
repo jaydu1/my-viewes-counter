@@ -1,5 +1,6 @@
 ## [🔙 my-viewes-counter](https://github.com/jaydu1/my-viewes-counter)
-
+| [**Week →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/week.md) | [**Month →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/month.md) | [**Year →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [VITAE](https://github.com/jaydu1/VITAE)
 ![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/graph/237868661/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/10/15 1:49 AM UTC</i></small>
+<small><i>Last updated on 2024/10/15 1:57 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/237868661/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/week.md)
 ```
 ### Header
-# VITAE [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/237868661/small/year.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/year.md)
+# VITAE [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/237868661/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/week.md)
 ```readme
-# VITAE [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/237868661/small/year.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/year.md)
+# VITAE [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/237868661/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

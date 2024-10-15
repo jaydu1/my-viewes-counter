@@ -1,5 +1,6 @@
 ## [🔙 my-viewes-counter](https://github.com/jaydu1/my-viewes-counter)
-
+| [**Week →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/week.md) | [**Month →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/month.md) | [**Year →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [jaydu1.github.io](https://github.com/jaydu1/jaydu1.github.io)
 ![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/graph/183219516/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/10/15 1:50 AM UTC</i></small>
+<small><i>Last updated on 2024/10/15 1:58 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/183219516/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/week.md)
 ```
 ### Header
-# jaydu1.github.io [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/183219516/small/year.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/year.md)
+# jaydu1.github.io [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/183219516/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/week.md)
 ```readme
-# jaydu1.github.io [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/183219516/small/year.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/year.md)
+# jaydu1.github.io [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/183219516/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

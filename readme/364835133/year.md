@@ -1,5 +1,6 @@
 ## [🔙 my-viewes-counter](https://github.com/jaydu1/my-viewes-counter)
-
+| [**Week →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/364835133/week.md) | [**Month →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/364835133/month.md) | [**Year →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/364835133/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [dujinhong](https://github.com/jaydu1/dujinhong)
 ![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/graph/364835133/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/10/15 1:49 AM UTC</i></small>
+<small><i>Last updated on 2024/10/15 1:56 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/364835133/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/364835133/week.md)
 ```
 ### Header
-# dujinhong [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/364835133/small/year.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/364835133/year.md)
+# dujinhong [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/364835133/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/364835133/week.md)
 ```readme
-# dujinhong [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/364835133/small/year.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/364835133/year.md)
+# dujinhong [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/364835133/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/364835133/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

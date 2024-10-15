@@ -1,5 +1,6 @@
 ## [🔙 my-viewes-counter](https://github.com/jaydu1/my-viewes-counter)
-
+| [**Week →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/531928405/week.md) | [**Month →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/531928405/month.md) | [**Year →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/531928405/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [overparameterized-ensembling](https://github.com/jaydu1/overparameterized-ensembling)
 ![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/graph/531928405/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/10/15 1:49 AM UTC</i></small>
+<small><i>Last updated on 2024/10/15 1:57 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/531928405/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/531928405/week.md)
 ```
 ### Header
-# overparameterized-ensembling [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/531928405/small/year.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/531928405/year.md)
+# overparameterized-ensembling [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/531928405/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/531928405/week.md)
 ```readme
-# overparameterized-ensembling [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/531928405/small/year.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/531928405/year.md)
+# overparameterized-ensembling [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/531928405/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/531928405/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

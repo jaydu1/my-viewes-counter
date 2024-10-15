@@ -21,119 +21,119 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/364835133/year.md">
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/364835133/week.md">
 				dujinhong
 			</a>
 		</td>
 		<td>
-			2024/10/12 1:49 AM UTC
+			2024/10/13 1:49 AM UTC
 		</td>
 		<td>
 			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/364835133/small/year.png" height="20"> 20
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/364835133/small/week.png" height="20"> 20
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/237868661/year.md">
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/237868661/week.md">
 				VITAE
 			</a>
 		</td>
 		<td>
-			2024/10/12 12:00 AM UTC
+			2024/10/13 12:00 AM UTC
 		</td>
 		<td>
-			12
+			13
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/237868661/small/year.png" height="20"> 31
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/237868661/small/week.png" height="20"> 32
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/462010436/year.md">
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/462010436/week.md">
 				scVAEIT
 			</a>
 		</td>
 		<td>
-			2024/10/12 12:00 AM UTC
+			2024/10/13 12:00 AM UTC
 		</td>
 		<td>
-			54
+			58
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/462010436/small/year.png" height="20"> 257
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/462010436/small/week.png" height="20"> 293
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/531928405/year.md">
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/531928405/week.md">
 				overparameterized-ensembling
 			</a>
 		</td>
 		<td>
-			2024/10/12 1:49 AM UTC
+			2024/10/13 12:00 AM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/531928405/small/year.png" height="20"> 2
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/531928405/small/week.png" height="20"> 3
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/703793347/year.md">
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/703793347/week.md">
 				ensemble-cross-validation
 			</a>
 		</td>
 		<td>
-			2024/10/12 12:00 AM UTC
+			2024/10/13 12:00 AM UTC
 		</td>
 		<td>
-			20
+			21
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/703793347/small/year.png" height="20"> 77
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/703793347/small/week.png" height="20"> 94
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/183219516/year.md">
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/183219516/week.md">
 				jaydu1.github.io
 			</a>
 		</td>
 		<td>
-			2024/10/12 1:50 AM UTC
+			2024/10/13 1:50 AM UTC
 		</td>
 		<td>
 			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/183219516/small/year.png" height="20"> 4
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/183219516/small/week.png" height="20"> 4
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/183444594/year.md">
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/183444594/week.md">
 				Course-Material
 			</a>
 		</td>
 		<td>
-			2024/10/12 12:00 AM UTC
+			2024/10/13 12:00 AM UTC
 		</td>
 		<td>
-			157
+			168
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/183444594/small/year.png" height="20"> 1202
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/183444594/small/week.png" height="20"> 1301
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/10/15 1:50 AM UTC</i></small>
+<small><i>Last updated on 2024/10/15 1:59 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

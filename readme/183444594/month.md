@@ -1,0 +1,392 @@
+## [🔙 my-viewes-counter](https://github.com/jaydu1/my-viewes-counter)
+| [**Week →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183444594/week.md) | [**Month →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183444594/month.md) | [**Year →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183444594/year.md) |
+| ---- | ---- | ----- |
+### :octocat: [Course-Material](https://github.com/jaydu1/Course-Material)
+![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/graph/183444594/large/month.png)
+
+<details>
+	<summary>Click to expand table</summary>
+	<h2>:calendar: Month Page Views Table</h2>
+<table>
+	<tr>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Count
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/15</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/14</code>
+		</td>
+		<td>
+			<code>13</code>
+		</td>
+		<td>
+			<code>45</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/13</code>
+		</td>
+		<td>
+			<code>11</code>
+		</td>
+		<td>
+			<code>99</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/12</code>
+		</td>
+		<td>
+			<code>4</code>
+		</td>
+		<td>
+			<code>17</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/11</code>
+		</td>
+		<td>
+			<code>13</code>
+		</td>
+		<td>
+			<code>129</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/10</code>
+		</td>
+		<td>
+			<code>13</code>
+		</td>
+		<td>
+			<code>130</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/9</code>
+		</td>
+		<td>
+			<code>10</code>
+		</td>
+		<td>
+			<code>83</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/8</code>
+		</td>
+		<td>
+			<code>11</code>
+		</td>
+		<td>
+			<code>92</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/7</code>
+		</td>
+		<td>
+			<code>10</code>
+		</td>
+		<td>
+			<code>70</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/6</code>
+		</td>
+		<td>
+			<code>4</code>
+		</td>
+		<td>
+			<code>20</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/5</code>
+		</td>
+		<td>
+			<code>3</code>
+		</td>
+		<td>
+			<code>17</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/4</code>
+		</td>
+		<td>
+			<code>10</code>
+		</td>
+		<td>
+			<code>55</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/3</code>
+		</td>
+		<td>
+			<code>14</code>
+		</td>
+		<td>
+			<code>136</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/2</code>
+		</td>
+		<td>
+			<code>25</code>
+		</td>
+		<td>
+			<code>164</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/10/1</code>
+		</td>
+		<td>
+			<code>16</code>
+		</td>
+		<td>
+			<code>146</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/30</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/29</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/28</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/27</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/26</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/25</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/24</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/23</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/22</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/21</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/20</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/19</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/18</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/17</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/16</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2024/9/15</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+</table>
+
+</details>
+<small><i>Last updated on 2024/10/15 1:58 AM UTC</i></small>
+
+## ✂️Copy and 📋 Paste
+### SVG Badge
+[![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/183444594/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183444594/week.md)
+```readme
+[![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/183444594/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183444594/week.md)
+```
+### Header
+# Course-Material [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/183444594/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183444594/week.md)
+```readme
+# Course-Material [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/183444594/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183444594/week.md)
+```
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
+## 📦 Third party
+
+- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
+## 📄 License
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice/github-profile-views-counter)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
