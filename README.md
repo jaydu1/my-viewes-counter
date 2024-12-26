@@ -131,9 +131,57 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/183444594/small/week.png" height="20"> 5520
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/627412890/week.md">
+				gcate
+			</a>
+		</td>
+		<td>
+			2024/12/23 6:29 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/627412890/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/803707176/week.md">
+				CausalMultiOutcomes
+			</a>
+		</td>
+		<td>
+			2024/12/23 6:30 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/803707176/small/week.png" height="20"> 15
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/908646100/week.md">
+				PII
+			</a>
+		</td>
+		<td>
+			2024/12/23 6:30 PM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/908646100/small/week.png" height="20"> 8
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/12/26 3:52 PM UTC</i></small>
+<small><i>Last updated on 2024/12/26 6:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
