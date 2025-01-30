@@ -21,22 +21,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/364835133/week.md">
-				dujinhong
-			</a>
-		</td>
-		<td>
-			2025/1/28 1:36 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/364835133/small/week.png" height="20"> 52
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/237868661/week.md">
 				VITAE
 			</a>
@@ -101,6 +85,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/364835133/week.md">
+				dujinhong
+			</a>
+		</td>
+		<td>
+			2025/1/28 1:36 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/364835133/small/week.png" height="20"> 52
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/183219516/week.md">
 				jaydu1.github.io
 			</a>
@@ -129,6 +129,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/183444594/small/week.png" height="20"> 6385
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/742555575/week.md">
+				causarray
+			</a>
+		</td>
+		<td>
+			2025/1/27 3:04 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/742555575/small/week.png" height="20"> 114
 		</td>
 	</tr>
 	<tr>
@@ -181,7 +197,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/1/30 2:57 PM UTC</i></small>
+<small><i>Last updated on 2025/1/30 3:05 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
