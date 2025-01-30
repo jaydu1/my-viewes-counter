@@ -3,13 +3,16 @@
   "advancedMode": "true",
   "language": "en-US",
   "repository": [
-    "dujinhong",
+    
     "VITAE",
     "scVAEIT",
     "overparameterized-ensembling",
     "ensemble-cross-validation",
+    "dujinhong",
     "jaydu1.github.io",
     "Course-Material",
+
+    "causarray",
     "gcate",
     "CausalMultiOutcomes",
     "PII"
