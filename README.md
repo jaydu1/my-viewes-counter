@@ -115,9 +115,89 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/183219516/small/week.png" height="20"> 71
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/183444594/week.md">
+				Course-Material
+			</a>
+		</td>
+		<td>
+			2026/1/20 12:00 AM UTC
+		</td>
+		<td>
+			1631
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/183444594/small/week.png" height="20"> 11202
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/742555575/week.md">
+				causarray
+			</a>
+		</td>
+		<td>
+			2026/1/20 2:08 AM UTC
+		</td>
+		<td>
+			268
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/742555575/small/week.png" height="20"> 1874
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/627412890/week.md">
+				gcate
+			</a>
+		</td>
+		<td>
+			2026/1/20 2:09 AM UTC
+		</td>
+		<td>
+			61
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/627412890/small/week.png" height="20"> 132
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/803707176/week.md">
+				CausalMultiOutcomes
+			</a>
+		</td>
+		<td>
+			2026/1/20 2:09 AM UTC
+		</td>
+		<td>
+			50
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/803707176/small/week.png" height="20"> 131
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/908646100/week.md">
+				PII
+			</a>
+		</td>
+		<td>
+			2026/1/20 2:09 AM UTC
+		</td>
+		<td>
+			33
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/908646100/small/week.png" height="20"> 47
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/1/22 1:03 PM UTC</i></small>
+<small><i>Last updated on 2026/1/22 6:44 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
