@@ -1,8 +1,8 @@
 ## [🔙 my-viewes-counter](https://github.com/jaydu1/my-viewes-counter)
-| [**Week →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/week.md) | [**Month →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/month.md) | [**Year →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/year.md) |
+| [**Week →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1120442200/week.md) | [**Month →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1120442200/month.md) | [**Year →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1120442200/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [VITAE](https://github.com/jaydu1/VITAE)
-![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/graph/237868661/large/week.png)
+### :octocat: [FDFI](https://github.com/jaydu1/FDFI)
+![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/graph/1120442200/large/week.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -35,10 +35,10 @@
 			<code>2026/2/12</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>11</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>79</code>
 		</td>
 	</tr>
 	<tr>
@@ -46,10 +46,10 @@
 			<code>2026/2/11</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -57,10 +57,10 @@
 			<code>2026/2/10</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>16</code>
 		</td>
 	</tr>
 	<tr>
@@ -68,10 +68,10 @@
 			<code>2026/2/9</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -79,10 +79,10 @@
 			<code>2026/2/8</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>3</code>
 		</td>
 	</tr>
 	<tr>
@@ -90,10 +90,10 @@
 			<code>2026/2/7</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 	</tr>
 	<tr>
@@ -101,27 +101,27 @@
 			<code>2026/2/6</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>17</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2026/2/13 12:18 PM UTC</i></small>
+<small><i>Last updated on 2026/2/13 12:23 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/237868661/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/week.md)
+[![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/1120442200/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1120442200/week.md)
 ```readme
-[![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/237868661/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/week.md)
+[![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/1120442200/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1120442200/week.md)
 ```
 ### Header
-# VITAE [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/237868661/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/week.md)
+# FDFI [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/1120442200/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1120442200/week.md)
 ```readme
-# VITAE [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/237868661/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/237868661/week.md)
+# FDFI [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/1120442200/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1120442200/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -195,9 +195,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/908646100/small/week.png" height="20"> 53
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/1120442200/week.md">
+				FDFI
+			</a>
+		</td>
+		<td>
+			2026/2/10 12:00 AM UTC
+		</td>
+		<td>
+			20
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/1120442200/small/week.png" height="20"> 122
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/13 6:32 AM UTC</i></small>
+<small><i>Last updated on 2026/2/13 12:23 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
