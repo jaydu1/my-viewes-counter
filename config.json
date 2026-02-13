@@ -15,6 +15,7 @@
     "causarray",
     "gcate",
     "CausalMultiOutcomes",
-    "PII"
+    "PII",
+    "FDFI"
   ]
 }
