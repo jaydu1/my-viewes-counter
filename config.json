@@ -16,6 +16,7 @@
     "gcate",
     "CausalMultiOutcomes",
     "PII",
-    "FDFI"
+    "FDFI",
+    "crispyx"
   ]
 }
