@@ -1,8 +1,8 @@
 ## [🔙 my-viewes-counter](https://github.com/jaydu1/my-viewes-counter)
-| [**Week →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/week.md) | [**Month →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/month.md) | [**Year →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/year.md) |
+| [**Week →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1073666619/week.md) | [**Month →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1073666619/month.md) | [**Year →**](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1073666619/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [jaydu1.github.io](https://github.com/jaydu1/jaydu1.github.io)
-![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/graph/183219516/large/year.png)
+### :octocat: [crispyx](https://github.com/jaydu1/crispyx)
+![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/graph/1073666619/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -57,10 +57,10 @@
 			<code>2025/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -68,10 +68,10 @@
 			<code>2025/11/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -79,10 +79,10 @@
 			<code>2025/10/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -90,10 +90,10 @@
 			<code>2025/9/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -123,10 +123,10 @@
 			<code>2025/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -145,10 +145,10 @@
 			<code>2025/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>18</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -165,18 +165,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2026/3/30 3:37 PM UTC</i></small>
+<small><i>Last updated on 2026/3/30 3:40 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/183219516/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/week.md)
+[![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/1073666619/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1073666619/week.md)
 ```readme
-[![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/183219516/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/week.md)
+[![Image of my-viewes-counter](https://github.com/jaydu1/my-viewes-counter/blob/master/svg/1073666619/badge.svg)](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1073666619/week.md)
 ```
 ### Header
-# jaydu1.github.io [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/183219516/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/week.md)
+# crispyx [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/1073666619/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1073666619/week.md)
 ```readme
-# jaydu1.github.io [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/183219516/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/183219516/week.md)
+# crispyx [<img alt="Image of my-viewes-counter" src="https://github.com/jaydu1/my-viewes-counter/blob/master/graph/1073666619/small/week.png" height="20">](https://github.com/jaydu1/my-viewes-counter/blob/master/readme/1073666619/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
