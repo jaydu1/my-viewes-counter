@@ -149,6 +149,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/627412890/week.md">
+				gcate
+			</a>
+		</td>
+		<td>
+			2026/6/6 1:06 AM UTC
+		</td>
+		<td>
+			80
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/jaydu1/my-viewes-counter/raw/master/graph/627412890/small/week.png" height="20"> 161
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/jaydu1/my-viewes-counter/tree/master/readme/803707176/week.md">
 				CausalMultiOutcomes
 			</a>
@@ -213,7 +229,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/8 8:02 AM UTC</i></small>
+<small><i>Last updated on 2026/6/8 1:42 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
